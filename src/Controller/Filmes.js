@@ -1,4 +1,4 @@
-import { openDb } from '../configDB';
+import { openDb } from '../configDB.js';
 
 export async function selectFilmes(req, res) {
   openDb().then((db) => {
