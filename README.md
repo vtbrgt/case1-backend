@@ -6,15 +6,13 @@
 
 Nesse projeto eu fui responsável por criar uma API em Node.js que é o MVP de um aplicativo. O tema escolhido por mim foi o de uma lista de filmes.
 
-<!-- # Hospedagem 🏡
+# Hospedagem 🏡
 
-Você pode consumir a API a partir deste [endereço]().
+Você pode consumir a API a partir deste [endereço](https://lista-filmes.onrender.com).
 
 ## Exemplos de uso:
 
-`https://apinoderest.onrender.com/clientes`
-<br>
-`https://apinoderest.onrender.com/entradas` -->
+`https://lista-filmes.onrender.com/filmes`
 
 # Para executar o projeto siga os passos ✏
 
